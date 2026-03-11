@@ -8,4 +8,15 @@ Instructions for Inverter Control Operation
 7. Set the desired inverter operation mode in the expressions list. The operating mode can be changed by modifying the InvOpMode variable (0 = Passive Rectifier; 1 = Islanded; 2 = Grid-Forming; 3 = Grid-Feeding; 4 = Grid-Supporting).
 8. Enable the PWN by setting the Sys_En variable to 3
 9. Monitor output and check results in Typhoon HIL SCADA
+
+
+
+
+
    
+*This code was modified and built for Typhoon HIL based on an example code developed by Dr. Chris Farnell.
+
+Citation: 
+A. Corbitt, W. G. Schwartz, C. Farnell, J. C. Balda, and H. A. Mantooth, "The National Center for Reliable Electric Power Transmission Test Facility," in IEEE Open Journal of Power Electronics, vol. 5, pp. 754-764, 2024, doi: 10.1109/OJPEL.2024.3405311.
+keywords: {Power transformers;Test facilities;Voltage control;Medium voltage;Aerospace electronics;Transportation;Research and development;Cybersecurity;hardware-in-the-loop;high-power test facility;measurement;medium voltage;power and energy;testing;transportation electrification;safety},
+
