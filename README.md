@@ -1,5 +1,5 @@
 Instructions for Inverter Control Operation
-1. Install CCS v8.3.1
+1. Install CCS v8.3.1 and c2000ware
 2. Import the Buck_Boost_Inverter_PI_v0.3.2 project
 3. Build and clean the project
 4. Launch debug session
